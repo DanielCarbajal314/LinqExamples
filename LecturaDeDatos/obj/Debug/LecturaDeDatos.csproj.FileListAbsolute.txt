@@ -1,0 +1,12 @@
+c:\Users\Daniel\Documents\Visual Studio 2015\Projects\DataAccess\LecturaDeDatos\bin\Debug\LecturaDeDatos.exe.config
+c:\Users\Daniel\Documents\Visual Studio 2015\Projects\DataAccess\LecturaDeDatos\bin\Debug\LecturaDeDatos.exe
+c:\Users\Daniel\Documents\Visual Studio 2015\Projects\DataAccess\LecturaDeDatos\bin\Debug\LecturaDeDatos.pdb
+c:\Users\Daniel\Documents\Visual Studio 2015\Projects\DataAccess\LecturaDeDatos\bin\Debug\DataAccess.dll
+c:\Users\Daniel\Documents\Visual Studio 2015\Projects\DataAccess\LecturaDeDatos\bin\Debug\EntityFramework.dll
+c:\Users\Daniel\Documents\Visual Studio 2015\Projects\DataAccess\LecturaDeDatos\bin\Debug\EntityFramework.SqlServer.dll
+c:\Users\Daniel\Documents\Visual Studio 2015\Projects\DataAccess\LecturaDeDatos\bin\Debug\DataAccess.pdb
+c:\Users\Daniel\Documents\Visual Studio 2015\Projects\DataAccess\LecturaDeDatos\bin\Debug\EntityFramework.xml
+c:\Users\Daniel\Documents\Visual Studio 2015\Projects\DataAccess\LecturaDeDatos\bin\Debug\EntityFramework.SqlServer.xml
+c:\Users\Daniel\Documents\Visual Studio 2015\Projects\DataAccess\LecturaDeDatos\obj\Debug\LecturaDeDatos.csprojResolveAssemblyReference.cache
+c:\Users\Daniel\Documents\Visual Studio 2015\Projects\DataAccess\LecturaDeDatos\obj\Debug\LecturaDeDatos.exe
+c:\Users\Daniel\Documents\Visual Studio 2015\Projects\DataAccess\LecturaDeDatos\obj\Debug\LecturaDeDatos.pdb
